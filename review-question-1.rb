@@ -62,6 +62,8 @@ pokemon = [
 
 
 # How would you get the url for Bulbasaur's ability?
+def 
+
 # How would you return the first pokemon with base experience over 40?
 # How would you return ALL OF THE pokemon with base experience over 40? (Gotta catch em all)
 # How would you return an array of all of the pokemon's names?
